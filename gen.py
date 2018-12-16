@@ -15,7 +15,7 @@ import pandas as pd
 from pandas.io.json import json_normalize
 import matplotlib.pyplot as plt
 import seaborn as sns
-color = sns.color_palette()
+#color = sns.color_palette()
 
 # %matplotlib inline
 
