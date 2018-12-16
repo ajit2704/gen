@@ -19,10 +19,7 @@ import seaborn as sns
 
 # %matplotlib inline
 
-from plotly import tools
-import plotly.offline as py
-py.init_notebook_mode(connected=True)
-import plotly.graph_objs as go
+
 
 from sklearn import model_selection, preprocessing, metrics
 import lightgbm as lgb
